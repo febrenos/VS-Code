@@ -28,8 +28,10 @@
 - ctrl + shift + p : buscar comandos
 
 
+```js
 //Salvar dentro do projeto específico para nao usar ponto e virgula por exemplo da extensao prittier
-.prittierrc.json
+//.prittierrc.json
 {
 	"semi":false //tirar ponto e virgula
-} 
+}
+```
