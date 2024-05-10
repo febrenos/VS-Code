@@ -1,11 +1,11 @@
 # VS-Code
 
 # Extenções
-night Owl
-winter is coming Theme
-code coder dark
-GitHub theme
-One Dark Pro
+- night Owl
+- winter is coming Theme
+- code coder dark
+- GitHub theme
+- One Dark Pro
 
 # Atalhos VS code
 - alt + z
